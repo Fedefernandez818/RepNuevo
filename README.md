@@ -1,2 +1,2 @@
 # RepNuevo
-MI Modelo: https://teachablemachine.withgoogle.com/models/orPYc46Bpm/
+https://teachablemachine.withgoogle.com/models/orPYc46Bpm/
